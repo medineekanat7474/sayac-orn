@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac-orn.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac_orn.Form1.resources
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac_orn.Properties.Resources.resources
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac-orn.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac-orn.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\bin\Debug\sayac-orn.exe.config
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\bin\Debug\sayac-orn.exe
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\bin\Debug\sayac-orn.pdb
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac-orn.exe
+C:\Users\PC0\Desktop\sayac-orn\sayac-orn\obj\Debug\sayac-orn.pdb
